@@ -1,6 +1,6 @@
 # EasyRSA
 
-[![Build Status](https://travis-ci.org/paragonie/EasyRSA.svg?branch=master)](https://travis-ci.org/paragonie/EasyRSA)
+[![Build Status](https://travis-ci.org/lyhiving/EasyRSA.svg?branch=master)](https://travis-ci.org/lyhiving/EasyRSA)
 
 Simple and Secure Wrapper for [phpseclib](https://github.com/phpseclib/phpseclib).
 
@@ -31,7 +31,7 @@ EasyRSA is MIT licensed and brought to you by the secure PHP development team at
 [Paragon Initiative Enterprises](https://paragonie.com).
 
 ## How to use this library?
-`composer require paragonie/easyrsa`
+`composer require lyhiving/easyrsa`
 
 ### Generating RSA key pairs
 
